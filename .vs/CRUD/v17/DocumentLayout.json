@@ -1,0 +1,37 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\dsrpt\\source\\repos\\CRUD\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{FB04EDBC-1869-43DA-8786-61C09ABF423B}|CRUD\\CRUD.csproj|c:\\users\\dsrpt\\source\\repos\\crud\\crud\\mp.master||{B30AFBFF-D992-43B7-B62D-2642580A2883}",
+      "RelativeMoniker": "D:0:0:{FB04EDBC-1869-43DA-8786-61C09ABF423B}|CRUD\\CRUD.csproj|solutionrelative:crud\\mp.master||{B30AFBFF-D992-43B7-B62D-2642580A2883}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 0,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "MP.Master",
+              "DocumentMoniker": "C:\\Users\\dsrpt\\source\\repos\\CRUD\\CRUD\\MP.Master",
+              "RelativeDocumentMoniker": "CRUD\\MP.Master",
+              "ToolTip": "C:\\Users\\dsrpt\\source\\repos\\CRUD\\CRUD\\MP.Master",
+              "RelativeToolTip": "CRUD\\MP.Master",
+              "LogicalView": "7651a703-06e5-11d1-8ebd-00a0c90f26ea",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000195|",
+              "WhenOpened": "2024-05-06T02:03:51.86Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
